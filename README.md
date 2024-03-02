@@ -7,4 +7,4 @@ O objetivo deste código é reproduzir uma estrutura de sistema de cadastro de a
 <br>
 Adicionalmente, utilizei Bootstrap 5, para estilizar a página. <br>
 Siga o link abaixo, caso deseje dar uma olhada: <br>
-<a href="https://kingkarpa.github.io/Atividade-DOM.js/">Teste Aqui</a>
+<a href="https://kingkarpa.github.io/Atividade_DOM.js/">Teste Aqui</a>
